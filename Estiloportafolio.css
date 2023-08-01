@@ -1,0 +1,60 @@
+h1{
+    background-color: rgb(113, 204, 174);
+    width: 550px;
+    padding-left: 19px;
+    border-radius: 60px;
+    box-shadow: 2px 2px 2px 2px;
+}
+
+
+
+.main{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    max-height: 300px;
+    width: auto ;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px 2px;
+}
+
+body{
+    background-color: skyblue;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.parr1{
+    font-size: large;
+    margin-left: 15px;
+    background-color: rgb(113, 204, 174);
+    border-radius: 10px;
+    height: 130px;
+    box-shadow: 2px 2px 2px 2px;
+}
+
+.parr2{
+    font-size: x-large;
+}
+
+
+.cat img{
+    width: 200px;
+    height: 350px;
+    float: right;
+    margin-right: 5%;
+}
+
+#educacion{
+    box-shadow: 2px 2px 2px 2px;
+}
+
+#experiencia{
+    box-shadow: 2px 2px 2px 2px;
+}
+
+#presentacionpet{
+    box-shadow: 2px 2px 2px 2px;
+}
